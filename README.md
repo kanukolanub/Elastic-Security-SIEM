@@ -16,6 +16,9 @@ This repository contains an overview of how to use Elastic Security a security s
 
    ![image](https://github.com/user-attachments/assets/1d580745-e819-4d8a-bf85-a82302e95636)
 
+It will automatically start collecting and forwarding logs to your Elastic SIEM instance, although it might take a few minutes for the logs to appear in the SIEM.
+
+Now in elastic website, it is displayed as agent enrolled. Click on "Add the Integration"
    ![image](https://github.com/user-attachments/assets/f72be1ca-e253-4619-977e-627b15dbe744)
 
 4. You can confirm whether the Elastic Agent has been installed correctly by running the following command
