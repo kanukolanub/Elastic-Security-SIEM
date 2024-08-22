@@ -28,6 +28,11 @@ This repository contains an overview of how to use Elastic Security a security s
    It was designed to discover hosts and services on a computer network, thus creating a "map" of the network.
    Nmap was used to scan hosts for open ports, determine the operating system and software running on the target system, and gather other information about the network.
 
+**nmap -p- localhost**
+
 ![image](https://github.com/user-attachments/assets/2d8d6c4b-21b7-4926-abb4-13b5616aa248)
 
+**nmap -Ss localhost**
 ![image](https://github.com/user-attachments/assets/29fd33ca-5e1d-4d17-b7e0-a397b4b31c99)
+
+6. Let's search for Security events in Elastic SIEM
