@@ -2,7 +2,8 @@
 
 ## Overview
 
-This repository contains a project where in we use security solution built on the Elastic Search platform known as Elastic Security offered by Elastic. 
+This repository contains an overview of how to use Elastic Security a security solution built on the Elastic Search platform offered by Elastic to detect alerts generated when an adversary conducts a nmap scan on Kali Linux (Ubuntu OS).
+
 1. Install Elastic Search Platform v8.15
    ![image](https://github.com/user-attachments/assets/2d6f016a-6003-4bac-86a9-aebf8216a320)
 
@@ -21,9 +22,12 @@ This repository contains a project where in we use security solution built on th
    sudo systemctl status elastic-agent.service
    ![image](https://github.com/user-attachments/assets/b4262002-5257-480e-9588-25b1e833a7c7)
 
-5. Generating Security Events on Kali VM
-   To verify that the agent was working correctly, I generated some security-related events on my Kali VM using a tool like Nmap. Nmap (Network Mapper) is a free and open-source utility used for network exploration, management, and security auditing. It was designed to      discover hosts and services on a computer network, thus creating a "map" of the network. Nmap was used to scan hosts for open ports, determine the operating system and software running on the target system, and gather other information about the network.
+5. Generating Security Events on Kali Linux (Ubuntun OS) VM.
+   To verify that the agent was working correctly, I generated some security-related events on my Kali VM using a tool like Nmap.
+   Nmap (Network Mapper) is a free and open-source utility used for network exploration, management, and security auditing.
+   It was designed to discover hosts and services on a computer network, thus creating a "map" of the network.
+   Nmap was used to scan hosts for open ports, determine the operating system and software running on the target system, and gather other information about the network.
 
-sudo![image](https://github.com/user-attachments/assets/2d8d6c4b-21b7-4926-abb4-13b5616aa248)
+![image](https://github.com/user-attachments/assets/2d8d6c4b-21b7-4926-abb4-13b5616aa248)
 
 ![image](https://github.com/user-attachments/assets/29fd33ca-5e1d-4d17-b7e0-a397b4b31c99)
