@@ -36,6 +36,22 @@ Now in elastic website, it is displayed as agent enrolled. Click on "Add the Int
 ![image](https://github.com/user-attachments/assets/2d8d6c4b-21b7-4926-abb4-13b5616aa248)
 
 **nmap -Ss localhost**
+
 ![image](https://github.com/user-attachments/assets/29fd33ca-5e1d-4d17-b7e0-a397b4b31c99)
 
 6. Let's search for Security events in Elastic SIEM
+   Now that I have forwarded data from the Kali VM to the SIEM, I can start querying and analyzing the logs in the SIEM.
+
+    In the search bar enter the below log query, process.args: "nmaps"
+
+   ![image](https://github.com/user-attachments/assets/1e6b5068-a190-4510-8d30-b03667e08d40)
+
+   click on view on any shown results to view the nmap encounter
+
+   ![image](https://github.com/user-attachments/assets/616d6149-12b6-4ab9-86c7-ac04e8d1bc36)
+
+   ![image](https://github.com/user-attachments/assets/8f1dbee1-5d2a-4c12-aa0f-156d629c56f8)
+
+
+
+
