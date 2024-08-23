@@ -85,6 +85,18 @@ click on Create rule
 select custom threshold
 ![image](https://github.com/user-attachments/assets/2d7337cf-5c93-4e86-960e-4bf349dcc4d0)
 
+al![image](https://github.com/user-attachments/assets/fa0e526b-570e-410e-9d65-a7e30d7bd5c2)
+
+![image](https://github.com/user-attachments/assets/aa13e81f-666b-4c7b-bfc8-3296410d94b1)
+
+![image](https://github.com/user-attachments/assets/efc48611-8df2-41ea-bd9f-75631639b43f)
+
+![image](https://github.com/user-attachments/assets/3ee9cee6-2fe4-4a94-869f-24da6925b632)
+
+![image](https://github.com/user-attachments/assets/e1c3c766-6fd4-4004-9a8e-f06e4d6ced24)
+
+
+
 
 
 
