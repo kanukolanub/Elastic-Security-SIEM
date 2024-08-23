@@ -52,6 +52,40 @@ Now in elastic website, it is displayed as agent enrolled. Click on "Add the Int
 
    ![image](https://github.com/user-attachments/assets/8f1dbee1-5d2a-4c12-aa0f-156d629c56f8)
 
+7. Create Dashboards to Visualize events
+we can also utilize the visualizations and dashboards within the SIEM app to analyze logs and identify patterns or anomalies in the data. For instance, you could create a straightforward dashboard that displays a count of security events over time.
+
+click on "dashboard" that is under analytics
+![image](https://github.com/user-attachments/assets/19e188dc-1e57-49e9-9d51-76df1b0efde6)
+
+click on "Create Dashboard"
+![image](https://github.com/user-attachments/assets/66d9f453-2f76-4f69-a934-e716667e5ce0)
+
+select on "Create Visualization"
+![image](https://github.com/user-attachments/assets/01b7efb6-54b9-4b99-85c2-f339450a979a)
+
+Select "Area" as the Visualization type, "Count" as the Vertical Field, and "Timestamp" for horizontal field
+We see the graph below that shows the Nmap counts
+![image](https://github.com/user-attachments/assets/6a40c976-5cf5-46e0-a73a-f4b3a039022f)
+
+8. Create an alert
+In a SIEM, alerts were a crucial feature for detecting security incidents and responding to them in a timely manner.
+Alerts were created based on predefined rules or custom queries and could be configured to trigger specific actions when certain conditions were met.
+In this task, I walked through the steps of creating an alert in the Elastic SIEM instance to detect Nmap scans.
+
+click on Alerts
+![image](https://github.com/user-attachments/assets/0230f83c-af17-4d40-9be6-06a828000018)
+
+click on Manage rules
+![image](https://github.com/user-attachments/assets/45a1e91b-7d83-491c-9998-6f6012d8b9ae)
+
+click on Create rule
+![image](https://github.com/user-attachments/assets/10a071f1-b167-4bcc-b5f1-5b3d56f69731)
+
+select custom threshold
+![image](https://github.com/user-attachments/assets/2d7337cf-5c93-4e86-960e-4bf349dcc4d0)
+
+
 
 
 
